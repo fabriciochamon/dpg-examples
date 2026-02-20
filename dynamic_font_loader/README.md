@@ -1,4 +1,4 @@
-## Batch file renamer
+## Dynamic font loader
 
 Dynamic font loader in multiple predefined sizes.
 
