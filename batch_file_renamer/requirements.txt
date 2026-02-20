@@ -1,0 +1,4 @@
+dearpygui==2.2
+dearpygui_extend==0.1.5
+Fileseq==2.3.0
+future==1.0.0
